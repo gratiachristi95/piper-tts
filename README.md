@@ -6,6 +6,8 @@ This repository contains a Dockerfile of [Debian](https://www.debian.org/) for [
 
 [debian:testing](https://hub.docker.com/_/debian)
 
+The Dockerfile adds [Piper-TTS](https://github.com/rhasspy/piper) to the install so you can have an image prepacked with piper
+
 # Installation
 
 1. Install [Docker](https://www.docker.com/).
@@ -20,3 +22,6 @@ This repository contains a Dockerfile of [Debian](https://www.debian.org/) for [
 
 6. Run a bash script to use piper-tts using docker exec -it --user root name-of-container bash
    Replace the name-of-container with the name found in step 5
+
+7. Instructions on how to use Piper-TTS found at
+   https://github.com/rhasspy/piper
