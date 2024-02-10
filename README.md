@@ -12,7 +12,7 @@ This repository contains a Dockerfile of [Debian](https://www.debian.org/) for [
 
 2. Install [Docker-Compose](https://docs.docker.com/compose/install/linux/).
 
-3. [Clone] (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository 
+3. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository 
   
 4. Run docker-compose up -d
 
